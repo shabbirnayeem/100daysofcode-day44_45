@@ -105,7 +105,7 @@ web_input.grid(column=1, row=1, columnspan=2)
 web_input.focus()
 email_input = Entry(width=54)
 email_input.grid(column=1, row=2, columnspan=2)
-email_input.insert(END, string="Shabbir.Nayeem@gmail.com")
+email_input.insert(END, string="@gmail.com")
 pass_input = Entry(width=35)
 pass_input.grid(column=1, row=3)
 
